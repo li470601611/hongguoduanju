@@ -1,8 +1,8 @@
 // ==UserScript==
 // @name         红果短剧网页端自动连播（提前0.5秒切集版）
 // @namespace    https://github.com/li470601611
-// @version      1.1.1
-// @description  红果短剧网页端自动连播，结束前0.5秒提前切集，避开二维码弹窗
+// @version      1.1.2
+// @description  红果短剧网页端自动连播，结束前0.5秒提前切集，避开二维码弹窗。第一次用放代码到github，有ai可以做的事情真的很多
 // @author       原作者庙竹 (miaozhu) 【联系不到作者，用豆包微调】
 // @license      MIT
 // @match        *://hongguoduanju.com/player/*
